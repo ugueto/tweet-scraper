@@ -1,3 +1,5 @@
 # Simple tweet scraper using Python & Selenium.
  
-## Enjoy.
+### Please read the comments in tweet-scraper.py - Enjoy.
+---
+*All web scraping was done with proper ethics.*
